@@ -22,13 +22,13 @@ This project involves the design and implementation of an 8-bit Arithmetic Logic
 
 Below is an example of the simulation results for the ALU. The waveform shows the output of the ALU for various operations:
 
-![Simulation Results](images/simulation_results.png)
+![Simulation Results](https://github.com/BRshreya29/8-bit-ALU-unit/blob/main/images/simulation.png)
 
 ## Circuit Schematic
 
 Here is the schematic diagram of the 8-bit ALU circuit. This schematic illustrates the connections and components of the ALU:
 
-![Circuit Schematic](images/circuit_schematic.png)
+![Circuit Schematic](https://github.com/BRshreya29/8-bit-ALU-unit/blob/main/images/schematic.png)
 
 ## How to Use
 
@@ -45,4 +45,4 @@ Here is the schematic diagram of the 8-bit ALU circuit. This schematic illustrat
 
 ## Conclusion
 
-This 8-bit ALU project has been crucial in enhancing my skills in VLSI design. By developing and testing the ALU, I've gained hands-on experience with Verilog and deepened my understanding of digital logic. This project has provided practical knowledge in writing HDL code, designing circuits, and verifying functionality through simulations. These foundational skills are essential for advancing in VLSI and digital system design, preparing me for more complex future projects. The key focus of this project was the verilog coding part. 
+This 8-bit ALU project has been crucial in enhancing my skills in VLSI design. By developing and testing the ALU, I've gained hands-on experience with Verilog and deepened my understanding of digital logic. This project has provided practical knowledge in writing HDL code, designing circuits, and verifying functionality through simulations. These foundational skills are essential for advancing in VLSI and digital system design, preparing me for more complex future projects. The key focus of this project has been the verilog coding part. 
